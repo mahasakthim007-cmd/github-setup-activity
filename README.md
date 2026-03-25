@@ -2,7 +2,7 @@
 
 ## Student Information
 - Name: Mahasakthi Manikandan  
-- Register Number: (Enter your Reg No)  
+- Register Number: 922525205091 
 - Department: B.Tech Information Technology  
 - Year: 1st Year  
 
@@ -43,7 +43,7 @@ This repository is created as part of the GitHub Setup Activity to demonstrate b
 ---
 
 ## GitHub Profile
-(Paste your GitHub profile link here)
+https://github.com/mahasakthim007-cmd
 
 ---
 
