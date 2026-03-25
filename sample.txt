@@ -1,0 +1,7 @@
+Hello GitHub 👋
+
+This is my first repository.
+I am learning GitHub.
+
+Name: Mahasakthi Manikandan
+Department: B.Tech IT
